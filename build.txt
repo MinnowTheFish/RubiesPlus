@@ -1,0 +1,8 @@
+author = MinnowTheFish
+version = 0.4.2
+displayName = Rubies+
+hideCode = true
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
